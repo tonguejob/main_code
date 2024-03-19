@@ -16,7 +16,7 @@
 
   <script>
     const canvas = document.getElementById('gameCanvas');
-    const ctx = canvas.getContext('2d');
+    const ctx = canvas.getContext('1d');
     const blockSize = 30;
     const rows = canvas.height / blockSize;
     const cols = canvas.width / blockSize;
