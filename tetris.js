@@ -12,7 +12,7 @@
   </style>
 </head>
 <body>
-  <canvas id="gameCanvas" width="300" height="600"></canvas>
+  <canvas id="gameCanvas" width="30" height="60"></canvas>
 
   <script>
     const canvas = document.getElementById('gameCanvas');
