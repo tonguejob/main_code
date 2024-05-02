@@ -29,7 +29,6 @@
       }
     }
 
-
     function drawBlock(x, y) {
       ctx.fillStyle = 'blue';
       ctx.fillRect(x * blockSize, y * blockSize, blockSize, blockSize);
