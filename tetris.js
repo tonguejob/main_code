@@ -46,6 +46,7 @@
       }
     }
 
+
     function update() {
       draw();
     }
