@@ -47,7 +47,6 @@
     function update() {
       draw();
     }
-
     function gameLoop() {
       update();
       requestAnimationFrame(gameLoop);
