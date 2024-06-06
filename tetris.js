@@ -35,7 +35,7 @@
       ctx.strokeStyle = 'black';
       ctx.strokeRect(x * blockSize, y * blockSize, blockSize, blockSize);
     }
-
+........
     function draw() {
       for (let r = 0; r < rows; r++) {
         for (let c = 0; c < cols; c++) {
