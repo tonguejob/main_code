@@ -8,9 +8,7 @@
     #gameCanvas {
       border: 1px solid black;
       background-color: #f0f0f0;
-    }
-.......,,,5245345345
-  </style>
+      </style>
 </head>
 <body>
   <canvas id="gameCanvas" width="200" height="500"></canvas>
