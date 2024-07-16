@@ -50,6 +50,13 @@ rwertwertwertwert
       update();
       requestAnimationFrame(gameLoop);
     }
+
+
+
+
+
+
+  
     gameLoop();
   </script>
 </body>
