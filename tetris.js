@@ -55,16 +55,4 @@ rwertwertwertwert
   </script>
 </body>
 </html>
-\
-
-
-
-
-
-
-
-
-
-
-
 
